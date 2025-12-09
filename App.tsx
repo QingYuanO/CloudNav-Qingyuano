@@ -510,7 +510,7 @@ function App() {
         {/* Logo */}
         <div className="h-16 flex items-center px-6 border-b border-slate-100 dark:border-slate-700 shrink-0">
             <span className="text-xl font-bold bg-gradient-to-r from-blue-500 to-purple-500 bg-clip-text text-transparent">
-              云航 CloudNav
+              QingYuano CloudNav
             </span>
         </div>
 
@@ -601,7 +601,7 @@ function App() {
                  {authToken ? <span className="text-green-600">已同步</span> : <span className="text-amber-500">离线</span>}
                </div>
 
-               <a 
+               {/* <a 
                  href={GITHUB_REPO_URL} 
                  target="_blank" 
                  rel="noopener noreferrer"
@@ -610,7 +610,7 @@ function App() {
                >
                  <GitFork size={14} />
                  <span>Fork 项目</span>
-               </a>
+               </a> */}
             </div>
         </div>
       </aside>
