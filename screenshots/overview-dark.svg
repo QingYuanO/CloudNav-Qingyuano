@@ -27,7 +27,7 @@
     <rect x="259" width="1" height="752" fill="#334155"/>
 
     <!-- Sidebar: Logo -->
-    <text x="32" y="48" font-size="20" font-weight="700" fill="url(#logo-gradient-dark)">云航 CloudNav</text>
+    <text x="32" y="48" font-size="20" font-weight="700" fill="url(#logo-gradient-dark)">QingYuano CloudNav</text>
 
     <!-- Sidebar: Menu -->
     <g transform="translate(16, 90)">
